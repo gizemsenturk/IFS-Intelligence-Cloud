@@ -2,7 +2,7 @@
 ### 🤖 AI Sales Copilot for ERP Lead Scoring & Explainability
 
 <p align="center">
-  <img src="docs/demo.png" width="900">
+  <img src="docs/demo.png" width="1000">
 </p>
 
 <p align="center">
